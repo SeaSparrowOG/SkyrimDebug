@@ -1,7 +1,7 @@
 {
-  "name": "replaceme",
+  "name": "playerdebug",
   "version-string": "1.0.0",
-  "description": "Template for SKSE plugin built using my commonlib. MIT License by default.",
+  "description": "SKSE plugin for easy reference debugging.",
   "homepage": "",
   "license": "MIT",
   "dependencies": [

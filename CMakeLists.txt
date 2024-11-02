@@ -4,7 +4,7 @@ option(BUILD_TEST "Sets log level to debug." OFF)
 
 # -------- Project ----------
 project(
-	ProjectTemplate
+	SkyrimDebug
 	VERSION 1.0.0
 	LANGUAGES CXX
 )
